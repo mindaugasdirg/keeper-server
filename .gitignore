@@ -1,0 +1,6 @@
+obj/
+bin/
+output/
+.vs/
+
+.tmp
